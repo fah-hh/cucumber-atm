@@ -1,6 +1,6 @@
 Feature: withdraw
     As a customer
-    I want to withdraw from my account using ATM
+    I want to withdrWhaw from my account using ATM
 
 Background:
     Given a customer with id 1 and pin 111 with balance 200 exists
